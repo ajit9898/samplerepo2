@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running egg37.script",
+				"identifier": "START",
+				"timestamp": "2019-03-14 16:44:35.675 +0530"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:44:35.779 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "egg37.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:44:35.782 +0530",
+				"message": "remote",
+				"scriptName": "egg37.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:44:35.804 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "egg37.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:44:37.199 +0530",
+				"message": "Notepad.exe[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:44:56.797 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "egg37.script",
+				"handlerLine": 6,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"21.328\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-03-14 16:44:35 +0530\", Successes:\"0\", TestCase:\"egg37.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-03-14 16:44:57.008 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:22 egg37.script",
+				"identifier": "ABORTED",
+				"timestamp": "2019-03-14 16:44:57.079 +0530"
+			}
+	],
+	"createdTimestamp": "2019-03-14 11:14:35.678 +0000"
+}

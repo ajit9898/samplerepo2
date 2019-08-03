@@ -1,0 +1,70 @@
+{
+	"entries": [
+		{
+				"message": "Running egg37.script",
+				"identifier": "START",
+				"timestamp": "2019-03-14 15:08:29.656 +0530"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:08:29.879 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "egg37.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:08:29.881 +0530",
+				"message": "remote",
+				"scriptName": "egg37.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:08:29.904 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "egg37.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:08:30.764 +0530",
+				"message": "Notepad.exe[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:08:36.474 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (220, 80)",
+				"image": "(TEXT:\"File\")",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:09:13.600 +0530",
+				"scriptName": "egg37.script",
+				"message": "No Text Found On Screen: \"(TEXT:\"Open\")\"",
+				"image": "(TEXT:\"Open\")",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"44.331\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-03-14 15:08:29 +0530\", Successes:\"0\", TestCase:\"egg37.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-03-14 15:09:14.000 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:45 egg37.script",
+				"identifier": "ABORTED",
+				"timestamp": "2019-03-14 15:09:14.115 +0530"
+			}
+	],
+	"createdTimestamp": "2019-03-14 09:38:29.664 +0000"
+}

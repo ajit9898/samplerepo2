@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="egg37">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2019-03-14 15:01:31 +0530</FirstRun>
+  <LastRun>2019-03-14 16:55:06 +0530</LastRun>
+  <TotalTimeOnSuccess>174.126000</TotalTimeOnSuccess>
+ </script>
+</statistics>

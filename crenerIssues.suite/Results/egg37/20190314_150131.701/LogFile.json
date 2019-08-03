@@ -1,0 +1,68 @@
+{
+	"entries": [
+		{
+				"message": "Running egg37.script",
+				"identifier": "START",
+				"timestamp": "2019-03-14 15:01:31.741 +0530"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:01:32.349 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "egg37.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:01:32.351 +0530",
+				"message": "remote",
+				"scriptName": "egg37.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:01:32.379 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "egg37.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:01:33.234 +0530",
+				"message": "Notepad.exe[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:01:34.119 +0530",
+				"message": "[controlKey]O",
+				"scriptName": "egg37.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:01:35.551 +0530",
+				"message": "C:\\Users\\Aj\\Desktop\\MyDesktop1\\txtFrom.txt[returnKey]",
+				"scriptName": "egg37.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"3.615\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-03-14 15:01:32 +0530\", Successes:\"1\", TestCase:\"egg37.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-03-14 15:01:35.849 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:04 egg37.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2019-03-14 15:01:36.024 +0530"
+			}
+	],
+	"createdTimestamp": "2019-03-14 09:31:31.904 +0000"
+}

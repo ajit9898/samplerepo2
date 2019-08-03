@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="egg37_script" package="crenerIssues.suite" timestamp="2019-03-14 15:06:09.235 +0530"
+ tests="1"  failures="0" errors="0" time="26.232000">
+  <properties>
+   <property name="RunDate" value="2019-03-14 15:06:09.235 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="egg37.script" assertions="1" status="error"  time="26.212">
+    <error type="Exception" message="No Image Found On Screen: &quot;EnterfileName&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

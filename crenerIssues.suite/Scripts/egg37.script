@@ -1,0 +1,29 @@
+﻿Connect "AjitSystem"
+show remote
+TypeText windowsKey,r
+TypeText "Notepad.exe",return
+//TypeText controlKey,"O"
+Click text:"File"
+Click "Open", "EnterFilePath"
+
+
+
+Click "EnterFilePath"
+wait 1
+
+TypeText "C:\Users\Aj\Desktop\MyDestop1\txtFrom.txt",return
+
+wait 2
+TypeText controlKey,a
+TypeText controlKey,c
+
+
+DoubleClick"textToFile"
+wait 2
+Set the nextKeyDelay to 0.5
+TypeText controlKey,v
+
+
+
+
+

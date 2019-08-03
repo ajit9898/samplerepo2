@@ -1,0 +1,104 @@
+{
+	"entries": [
+		{
+				"message": "Running egg37.script",
+				"identifier": "START",
+				"timestamp": "2019-03-14 16:45:01.093 +0530"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:01.161 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "egg37.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:01.163 +0530",
+				"message": "remote",
+				"scriptName": "egg37.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:01.186 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "egg37.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:02.025 +0530",
+				"message": "Notepad.exe[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:06.715 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (234, 84)",
+				"image": "(TEXT:\"File\")",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:07.880 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (255, 130)",
+				"image": "Open",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:08.868 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (426, 508)",
+				"image": "EnterFilePath",
+				"handlerLine": 11,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:10.344 +0530",
+				"message": "C:\\Users\\Aj\\Desktop\\MyDestop1\\txtFrom.txt[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 14,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:13.534 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (36, 563)",
+				"image": "textToFile",
+				"handlerLine": 17,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 16:45:15.556 +0530",
+				"message": "[controlKey]v",
+				"scriptName": "egg37.script",
+				"handlerLine": 19,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"14.654\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2019-03-14 16:45:01 +0530\", Successes:\"1\", TestCase:\"egg37.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-03-14 16:45:15.751 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:14 egg37.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2019-03-14 16:45:15.860 +0530"
+			}
+	],
+	"createdTimestamp": "2019-03-14 11:15:01.095 +0000"
+}

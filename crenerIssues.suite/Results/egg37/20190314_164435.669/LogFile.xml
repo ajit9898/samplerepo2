@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="egg37_script" package="crenerIssues.suite" timestamp="2019-03-14 16:44:35.669 +0530"
+ tests="1"  failures="0" errors="0" time="21.338000">
+  <properties>
+   <property name="RunDate" value="2019-03-14 16:44:35.669 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="egg37.script" assertions="1" status="error"  time="21.328">
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

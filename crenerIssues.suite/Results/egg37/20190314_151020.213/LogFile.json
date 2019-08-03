@@ -1,0 +1,80 @@
+{
+	"entries": [
+		{
+				"message": "Running egg37.script",
+				"identifier": "START",
+				"timestamp": "2019-03-14 15:10:20.220 +0530"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:20.305 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "egg37.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:20.415 +0530",
+				"message": "remote",
+				"scriptName": "egg37.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:20.440 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "egg37.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:21.303 +0530",
+				"message": "Notepad.exe[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:24.420 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (220, 80)",
+				"image": "(TEXT:\"File\")",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:26.650 +0530",
+				"scriptName": "egg37.script",
+				"message": "at (255, 130)",
+				"image": "Open",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:10:51.902 +0530",
+				"scriptName": "egg37.script",
+				"message": "No Image Found On Screen: \"EnterfileName\"",
+				"image": "EnterfileName",
+				"handlerLine": 11,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"31.942\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2019-03-14 15:10:20 +0530\", Successes:\"0\", TestCase:\"egg37.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-03-14 15:10:52.170 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found click Error - No Image Found On Screen: \"EnterfileName\" -- Execution Time 0:00:32 egg37.script",
+				"identifier": "FAILURE",
+				"timestamp": "2019-03-14 15:10:52.437 +0530"
+			}
+	],
+	"createdTimestamp": "2019-03-14 09:40:20.225 +0000"
+}

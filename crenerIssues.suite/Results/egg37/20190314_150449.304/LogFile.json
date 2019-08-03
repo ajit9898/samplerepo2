@@ -1,0 +1,53 @@
+{
+	"entries": [
+		{
+				"message": "Running egg37.script",
+				"identifier": "START",
+				"timestamp": "2019-03-14 15:04:49.309 +0530"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:04:49.437 +0530",
+				"message": "AjitSystem:(null)",
+				"scriptName": "egg37.script",
+				"handlerLine": 1,
+				"identifier": "connect"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:04:49.439 +0530",
+				"message": "remote",
+				"scriptName": "egg37.script",
+				"handlerLine": 2,
+				"identifier": "show"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:04:49.464 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "egg37.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_egg37",
+				"timestamp": "2019-03-14 15:04:50.322 +0530",
+				"message": "Notepad.exe[return]",
+				"scriptName": "egg37.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"1.43\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2019-03-14 15:04:49 +0530\", Successes:\"0\", TestCase:\"egg37.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2019-03-14 15:04:50.742 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage ERROR: No Such Function: 'o' -- Execution Time 0:00:01 egg37.script",
+				"identifier": "FAILURE",
+				"timestamp": "2019-03-14 15:04:51.099 +0530"
+			}
+	],
+	"createdTimestamp": "2019-03-14 09:34:49.312 +0000"
+}

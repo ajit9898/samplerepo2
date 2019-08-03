@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="egg37_script" package="crenerIssues.suite" timestamp="2019-03-14 15:08:29.644 +0530"
+ tests="1"  failures="0" errors="0" time="44.356000">
+  <properties>
+   <property name="RunDate" value="2019-03-14 15:08:29.644 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="egg37.script" assertions="1" status="error"  time="44.331">
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;Open&quot;)&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

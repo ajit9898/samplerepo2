@@ -1,0 +1,9 @@
+﻿2019-03-14 15:11:18.830 +0530	START		Running egg37.script
+2019-03-14 15:11:18.900 +0530	connect		AjitSystem:(null)	1	on_egg37	egg37.script
+2019-03-14 15:11:18.903 +0530	show		remote	2	on_egg37	egg37.script
+2019-03-14 15:11:19.018 +0530	typetext		[windowsKey]r	3	on_egg37	egg37.script
+2019-03-14 15:11:19.870 +0530	typetext		Notepad.exe[return]	4	on_egg37	egg37.script
+2019-03-14 15:11:31.195 +0530	click	(TEXT:"File")	at (221, 81)	6	on_egg37	egg37.script
+2019-03-14 15:11:44.246 +0530	click	Open	at (255, 130)	7	on_egg37	egg37.script
+2019-03-14 15:13:20.566 +0530	EndTestCase		(Duration:"121.733", Errors:"1", Exceptions:"0", StartTime:"2019-03-14 15:11:18 +0530", Successes:"0", TestCase:"egg37.script", Warnings:"0")
+2019-03-14 15:13:20.669 +0530	ABORTED		Execution Time 0:02:02 egg37.script

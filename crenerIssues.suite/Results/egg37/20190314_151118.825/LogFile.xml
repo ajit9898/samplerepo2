@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="egg37_script" package="crenerIssues.suite" timestamp="2019-03-14 15:11:18.825 +0530"
+ tests="1"  failures="0" errors="0" time="121.741000">
+  <properties>
+   <property name="RunDate" value="2019-03-14 15:11:18.825 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="egg37.script" assertions="1" status="failure"  time="121.733">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>
